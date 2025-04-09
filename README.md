@@ -13,6 +13,6 @@ se na rota aparecer mais de uma vez a mesma cidade (número); para cada par de o
 Dessa forma, refatore o código de AG das palavras para resolver o problema de roteamento com aplicação das técnicas de AG.
 ```
 
-- [ ] Rever código
 - [ ] Arrumar a aptidão negativa
 - [ ] Juntar a linha das gerações
+- [ ] Base código antigo
